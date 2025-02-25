@@ -1,7 +1,9 @@
-<b>Customer Support Agent (LangGraph)</b>
+Customer Support Agent (LangGraph)
 
-<b>Overview 🔎</b>
+
+Overview 🔎
 An intelligent customer support agent using LangGraph categorizes queries, analyzes sentiment, and provides appropriate responses or escalates issues.
 
-<b>Implementation 🛠️</b>
+
+Implementation 🛠️
 Utilizes LangGraph to create a workflow combining state management, query categorization, sentiment analysis, and response generation.
