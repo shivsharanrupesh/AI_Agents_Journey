@@ -1,0 +1,6 @@
+
+types of RAG with langgraph:
+1. Agentic Rag: use an agent to figure out how to retrieve the most relevant information before using the retreived info to answer the user's question.
+2. Adaptive Rag:  is a strategy for RAG that unites: (a) Query analysis with (b)active/self-corrective RAG. 
+3. Corrective Rag: 
+4. Self Rag: 
